@@ -13,7 +13,7 @@
 
 ## 🧠 Model
 
-The detection model is trained on [your dataset] and fine-tuned for binary/multiclass classification (e.g., hate, offensive, neither). Hosted publicly on Hugging Face:
+The detection model is trained on Hate Speech and Offensive Language Dataset and fine-tuned for binary/multiclass classification (e.g., hate, offensive, neither). Hosted publicly on Hugging Face:
 
 - **Model Name:** `KhalidGB/HateBERT`
 - **Model Card:** [View on Hugging Face](https://huggingface.co/KhalidGB/HateBERT)
