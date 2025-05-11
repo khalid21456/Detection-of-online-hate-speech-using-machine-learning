@@ -1,6 +1,3 @@
-## ***Detection of online hate speech using machine learning***
-
-
 <p align="center">
     <img src="./logo.png"/>
 </p>
