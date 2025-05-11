@@ -47,7 +47,7 @@ hate-speech-detector/
 └── LICENSE
 └── README.md
 ```
-make sure you do
+make sure you download The HateBERT model from Hugging Face into model folder
 
 
 ## ⚙️ Installation
@@ -68,4 +68,4 @@ cd frontend
 npm install
 npm run dev
 ```
-Make sure the backend is running on http://localhost:5000 and frontend on http://localhost:3000.
+Make sure the backend is running on http://localhost:5000 and frontend on http://localhost:8080.
