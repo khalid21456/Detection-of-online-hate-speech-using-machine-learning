@@ -62,7 +62,7 @@ pip install -r requirements.txt
 flask run
 ```
 
-### Backend (React)
+### Frontend (React)
 ```bash
 cd frontend
 npm install
