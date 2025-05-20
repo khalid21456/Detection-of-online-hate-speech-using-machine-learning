@@ -62,7 +62,7 @@ pip install -r requirements.txt
 flask run
 ```
 
-### Frontend (React)
+### Frontend (https://github.com/khalid21456/Hate-Speech-Detector-UI) 
 ```bash
 cd frontend
 npm install
